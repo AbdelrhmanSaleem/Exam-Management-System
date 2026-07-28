@@ -273,10 +273,3 @@ Exam configuration updated successfully
 - Easy to extend and modify
 - Suitable for academic use
 
----
-
-## Author
-
-Seif Aldeen Hany Shaaban Awad  
-Computer Science Student – Alexandria University  
-GitHub: https://github.com/Seifaldeen44
